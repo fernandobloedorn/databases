@@ -1,4 +1,4 @@
-,Administrative,Administrative_Duration,Informational,Informational_Duration,ProductRelated,ProductRelated_Duration,BounceRates,ExitRates,PageValues,SpecialDay,Month,OperatingSystems,Browser,Region,TrafficType,VisitorType,Weekend,Revenue
+index,Administrative,Administrative_Duration,Informational,Informational_Duration,ProductRelated,ProductRelated_Duration,BounceRates,ExitRates,PageValues,SpecialDay,Month,OperatingSystems,Browser,Region,TrafficType,VisitorType,Weekend,Revenue
 9214,3.0,33.0,0.0,0.0,17.0,386.4166667,0.0,0.01,0.0,0.0,1.0,2.0,2.0,1.0,2.0,0.0,0.0,True
 10579,3.0,107.20833329999999,0.0,0.0,17.0,513.25,0.0,0.012030075,17.54619116,0.0,7.0,2.0,2.0,1.0,10.0,1.0,0.0,True
 13559,8.269055782886223,470.885023042414,3.730944217113777,314.79841831897494,154.98208162835334,6119.791400222653,0.007165946410415279,0.0191066495080061,0.01023538235748414,0.0,6.52915237994911,1.9327360542784442,1.9327360542784442,6.663680271392222,2.1345278914431116,1.0,0.9327360542784443,True
